@@ -7,4 +7,5 @@
 
 ## Guides
 [Dortaina](https://dortania.github.io/OpenCore-Install-Guide/)
+
 [Vanilla OpenCore Guide](https://khronokernel-2.gitbook.io/opencore-vanilla-desktop-guide/)
